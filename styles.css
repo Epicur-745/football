@@ -1,0 +1,45 @@
+body {
+ padding-top: 10px;
+ background-color:#ccc;
+    }
+	[class*="col-"],section {
+	
+	text-align: center;
+	
+	}
+
+	
+  .container{
+	  padding-right:10px;
+	  padding-left:10px;
+	  margin-right:auto;
+	  margin-left:auto;
+  }
+
+  
+   [class*="col-"] {
+	   margin-bottom:20px;
+   }
+   p {
+	   margin-bottom:0;
+   margin-top:0;
+   font-family: Arial, sans-serif;
+   font-weight:bold;
+   font-size:120%;
+   }
+   
+  a {
+	color:green;
+    }
+#main-image
+{
+  height: 500px;
+  background-position: center;
+  background:url("C:\Users\ACER EXTENSA\Documents\Football\Football\CR7.jpg") ;
+  background-size: cover;
+}
+.navbar-default {
+  background-color: #111111;
+  border-color: #cc1616;
+  }
+  
