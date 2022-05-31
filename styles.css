@@ -33,7 +33,7 @@ body {
     }
 #main-image
 {
-  height: 500px;
+  height: 600px;
   background-position: center;
   background:url("CR7.jpg") ;
   background-size: cover;
