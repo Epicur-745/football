@@ -33,7 +33,7 @@ body {
     }
 #main-image
 {
-  height: 1000px;
+  height: 560px;
   background-position: center;
   background:url("foot.jfif") ;
   background-size: cover;
